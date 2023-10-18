@@ -1,1 +1,3 @@
 # A4
+An L was taken with this assignment. After working very hard, my computer would say "Cannot Locate File" unless I used the command line. 
+It created a new terminal tab, however, it created a 0x0 maze. Besides that, I feel pretty good about the core of this assignment, which is recursion. Through this assignment, I began to understand recursion more. For some reason I thought it was more complicated before looking at the assignment. It's not that scary now :D
